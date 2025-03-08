@@ -8,13 +8,16 @@ El script funciona combinando los pdfs dentro de la carpeta PDFs, devolviendo do
 ```
 python -m venv venv
 ```
+>[!NOTE]
+>Esto solo se debe hacer solo una vez, para usos posteriores se debe pasar directamente al paso 2
 
 2. Active el entorno virtual.
 
 ```
 venv/Scripts/activate
 ```
-
+>[!NOTE]
+>Los pasos 3 y 4 también solo se deben ejecutar solo la primera vez que se vaya a usar el script.
 3. Instale las librerias necesarias.
 
 ```
