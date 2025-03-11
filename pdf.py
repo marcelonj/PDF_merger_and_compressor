@@ -26,3 +26,6 @@ salida.close()
 pdf = Pdf.open('salida.pdf')
 pdf.save('salida_comprimida.pdf', compress_streams=True)
 pdf.close()
+
+#Mensaje de salida
+print(f'Se unieron {len(PDFs)} archivos.')

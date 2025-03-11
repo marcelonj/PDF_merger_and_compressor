@@ -3,6 +3,7 @@
 El proyecto busca resolver el problema de unir varios pdfs de una sola página y luego comprimir el resultado.
 El script funciona combinando los pdfs dentro de la carpeta PDFs, devolviendo dos pdfs: uno sin comprimir y uno comprimido.
 ## Instrucciones
+
 1. Cree un entorno virtual con python.
 
 ```
